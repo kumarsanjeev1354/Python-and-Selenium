@@ -7,3 +7,4 @@ print(a/b)
 print(a%b)
 print(a//b)
 print(a**b)#test
+print(a+b*a-b)
